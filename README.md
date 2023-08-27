@@ -2,8 +2,8 @@
 The Quiz App for Android with Firebase Integration is a dynamic and interactive mobile application that enables users to take quizzes on a wide range of topics. 
 This app not only provides engaging quizzes but also utilizes Firebase backend services to enhance the user experience.
 
+Features:
 
-Features
 User-Friendly Interface: The app boasts a user-friendly and intuitive interface, ensuring a seamless experience for users of all ages.
 
 Diverse Quiz Categories: Users can choose from an array of quiz categories, ensuring that there's something to pique everyone's interests.
@@ -12,7 +12,8 @@ Varied Question Types: The app supports diverse question types, including multip
 
 Real-time Score Tracking: Users can view their scores and correct answers immediately upon completing a quiz, adding a competitive edge to the experience.
 
-Usage
+Usage:
+
 Launch the Quiz App from your device.
 
 Browse the available quiz categories and select a category that interests you.

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Quiz app</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="a_odisha">A: Odisha</string>
+    <string name="your_score_20">Your Score: 20</string>
+    <string name="get_started">Get Started</string>
+    <string name="welcome_to_quiz_master">Welcome to Quiz Master</string>
+    <string name="login_now">Login Now</string>
+    <string name="please_continue_to_login_using_app">please continue to login using app</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_accout_signup">Don\'t have an accout? Signup</string>
+    <string name="todo">TODO</string>
+</resources>
